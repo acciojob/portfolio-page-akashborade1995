@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+img{
+	width:200px;
+	height:200px;
+}
+#linkedin:hover{
+	background-color:aqua;
+	
+}
+#skills{
+	color:black;
+	background-color:red;
+}
+#projects{
+	color:black;
+	background-color:blue;
+}
+h1{
+	color:grey;
+}
+#l1{
+	background-color:violet;
+}
